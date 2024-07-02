@@ -221,7 +221,7 @@ themeSwitchContainer.onclick = function() {
     screen.children[0].classList.toggle('screen-text-light')
     btnContainer.classList.toggle('buttons-container-light');
     screenTextAfter.classList.toggle('screen-text-after-light');
-    document.querySelector('.fa-palette').classList.toggle('calc-title-light');
+    document.querySelector('.fa-calculator').classList.toggle('calc-title-light');
     document.querySelector('.fa-lightbulb').classList.toggle('fa-display-none');
     document.querySelector('.fa-moon').classList.toggle('fa-display-none');
     for (let btn of btns) {
