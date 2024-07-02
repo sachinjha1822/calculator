@@ -1,24 +1,24 @@
 
 :root{
-    --t1-main-bg: hsl(222, 26%, 31%);
+    --t1-main-bg: hsl(271, 98%, 49%);
     --t1-calc-title: #f4fcfd;;
     --t1-buttons-container: #242c44;
-    --t1-toggle-bg: hsl(223, 31%, 20%);
+    --t1-toggle-bg: hsl(13, 31%, 20%);
     --t1-toggle-btn: #d93a36;
     --t1-upper-screen-div: hsl(224, 36%, 15%);
     --t1-screen-text: #fffeff;
-    --t1-keys-div-bg: #212e42;
-    --t1-num-key-bg-1: #e8e3da;
+    --t1-keys-div-bg: #3a2142;
+    --t1-num-key-bg-1: #06e0fc;
     --t1-num-text-1: #464c58;
-    --t1-num-key-bg-2: hsl(225, 21%, 49%);
-    --t1-unique-key-border: #404e76;
-    --t1-equals-border: #92271b;
+    --t1-num-key-bg-2: hsl(0, 97%, 49%);
+    --t1-unique-key-border: #d10f0c;
+    --t1-equals-border: #0b9d91;
     --t1-num-text-2: #f4fcfd;
-    --t1-equals: #d13f30;
-    --t2-equals-border: #93261b;
+    --t1-equals: #12e8d2;
+    --t2-equals-border: #10b6b1;
 
-    --t2-main-bg: #e6e7e7;
-    --t2-unique-key-border: #1b5f67;
+    --t2-main-bg: #04befc;
+    --t2-unique-key-border: #671b1b;
     --t2-equals-border: #873900;
     --t2-buttons-container: #d3cfcd;
     --t2-calc-title: #35342a;
@@ -29,8 +29,8 @@
     --t2-keys-div-bg: #d2cdcc;
     --t2-num-key-bg-1: #e5e5e1;
     --t2-num-text-1: #3e3e38;
-    --t2-num-key-border-1: #a99c91;
-    --t2-num-key-bg-2: #388184;
+    --t2-num-key-border-1: #05b1c8;
+    --t2-num-key-bg-2: #ff0404;
     --t2-num-text-2: #ebfdfc;
     --t2-num-key-border-2: #1b6067;
     --t2-equals: #c95400;
@@ -94,7 +94,7 @@
     height: 400px;
     width: 400px;
 }
-.fa-palette{
+.fa-calculator{
     position: absolute;
     top: 0;
     z-index: 1000;
